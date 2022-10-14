@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/bin/Debug/net6.0/Work01
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/bin/Debug/net6.0/Work01.deps.json
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/bin/Debug/net6.0/Work01.runtimeconfig.json
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/bin/Debug/net6.0/Work01.dll
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/bin/Debug/net6.0/Work01.pdb
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/Work01.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/Work01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/Work01.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/Work01.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/Work01.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/Work01.dll
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/refint/Work01.dll
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/Work01.pdb
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/Work01.genruntimeconfig.cache
+/Users/macbookpro/Desktop/Тестировщик/Обучение/FinalWork/Work01/obj/Debug/net6.0/ref/Work01.dll
